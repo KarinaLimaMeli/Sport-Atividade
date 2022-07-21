@@ -1,0 +1,18 @@
+[ {
+  "sport" : "Futebol",
+  "nivel": "2"
+}, {
+  "sport" : "Natacao",
+  "nivel": "1"
+}, {
+  "sport" : "Volei",
+  "nivel": "4"
+}, {
+  "sport" : "Basquete",
+  "nivel": "3"
+}, {
+  "sport" : "Volei de Praia",
+  "nivel": "6"
+} ]
+
+

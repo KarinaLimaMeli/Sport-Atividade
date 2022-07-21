@@ -1,0 +1,21 @@
+[ {
+  "nome" : "Sophia ",
+  "nivel": "Ronzoni",
+  "sport" : "Futebol"
+}, {
+  "nome": "Julia ",
+  "nivel": "Cardoso",
+  "sport" : "Natacao"
+}, {
+  "nome": "Joao ",
+  "nivel": "Souza",
+  "sport" : "Volei"
+}, {
+  "nome": "Miguel ",
+  "nivel":"Santos",
+  "sport" : "Basquete"
+}, {
+  "nome": "Rafaela ",
+  "nivel": "Lima",
+  "sport" : "Volei de Praia"
+} ]
